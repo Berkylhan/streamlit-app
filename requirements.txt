@@ -7,9 +7,9 @@ Lifetimes==0.11.3
 lightgbm==4.5.0
 matplotlib==3.9.2
 missingno==0.5.2
-mkl-service==2.4.0
 mlxtend==0.23.1
 protobuf==3.20.3
+mkl-service==2.4.0
 pyasn1-modules==0.2.8
 pycurl==7.45.2
 pydotplus==2.0.2
